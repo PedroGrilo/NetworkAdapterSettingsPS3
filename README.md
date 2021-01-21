@@ -11,6 +11,5 @@ And put this:
  PRIMARY DNS : 8 . 8 . 8 . 8"
  SECONDARY DNS : 0 . 0 . 0 . 0"
  CLICK NEXT -> Automatic -> Do Not Use -> And save it"
-----------------------------------------------------------
 
 In your PC go to FILEZILLA and in IP Server put 192.168.0.5 and DONE :)
